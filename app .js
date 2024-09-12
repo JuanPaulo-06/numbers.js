@@ -1,4 +1,4 @@
-// Create a variable name firstFavNum and secondFavNum store your favorite number
+// Create a variable name firstFavNum and secondFavNum  and store your favorite number
 
 let  = firstFavNum1 = 6;
 
