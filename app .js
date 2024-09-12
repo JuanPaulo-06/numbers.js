@@ -1,4 +1,4 @@
-let = firstFavNum1 =6;
+let = firstFavNum1 = 6;
 
 let = secondFavNum2 = 23;
 
