@@ -1,13 +1,8 @@
-// Create a variable name firstFavNum and secondFavNum  and store your favorite number
-
-let  = firstFavNum1 = 6;
+let = firstFavNum1 =6;
 
 let = secondFavNum2 = 23;
 
-
-
-// Perform arithmetic operations 
-
+ 
 console.log("Addition:", firstFavNum1 + secondFavNum2);
 
 console.log("Subtraction:", firstFavNum1 - secondFavNum2);
